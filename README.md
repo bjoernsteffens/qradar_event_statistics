@@ -11,5 +11,22 @@ what ever other systems you have in your environment.
 Depending on the data you extract, you can then of course apply ML and
 other operations to your data.
 
+Prerequisites:
+
+1)
+You need to have an authorised services token and place that in the code
+
+2)
+You need to know the IP address of your QRadar Console
+
+3)
+Before you run this code you need to create the saved search outlined in
+rpt_EventStats.aql. If you have your own simply modify the code accordingly
+
+4)
+If there is a firewall between you and the QRadar console you need to open
+port 443 or start a VPN client
+
+
 ![](images/Post-SIEMDataPipeline.png "Post-SIEM data pipeline")
 
