@@ -11,4 +11,5 @@ what ever other systems you have in your environment.
 Depending on the data you extract, you can then of course apply ML and
 other models to your data.
 
-![Post-SIEM data pipeline](images/POST-SIEM Data Pipeline.png)
+![](images/POST-SIEMDataPipeline.png)
+
