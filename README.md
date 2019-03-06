@@ -9,7 +9,7 @@ information back into the SIEM as harvested threat intel or you can enrich
 what ever other systems you have in your environment.
 
 Depending on the data you extract, you can then of course apply ML and
-other models to your data.
+other operations to your data.
 
-![](images/POST-SIEMDataPipeline.png)
+![](./images/POST-SIEMDataPipeline.png)
 
