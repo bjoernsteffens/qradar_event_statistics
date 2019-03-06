@@ -45,10 +45,8 @@ from modules.rpt_BuildSlides import *
 
 # ========================================================
 # Global variables
-qr_Console      = 'https://192.168.12.100/api'
-qr_Token        = '77222e7d-c4d9-4454-a522-fddf328511d7'
-#qr_Console      = 'https://YOUR_QR_CONSOLE_IP/api'
-#qr_Token        = 'YOUR_AUTHORISED_SERVICE_TOKEN'
+qr_Console      = 'https://YOUR_QR_CONSOLE_IP/api'
+qr_Token        = 'YOUR_AUTHORISED_SERVICE_TOKEN'
 qr_SavedSearch  = 'rpt_EventStats'
 rpt_Category    = 'NORMAL'          # { NORMAL (Minute data) | HOURY | DAILY }
 rpt_Period      = 'last 30 Minutes' # last X { minutes | hours | days }
