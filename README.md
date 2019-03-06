@@ -11,5 +11,5 @@ what ever other systems you have in your environment.
 Depending on the data you extract, you can then of course apply ML and
 other operations to your data.
 
-![](images/Post-SIEMDataPipeline.png "Some Text")
+![](images/Post-SIEMDataPipeline.png "Post-SIEM data pipeline")
 
