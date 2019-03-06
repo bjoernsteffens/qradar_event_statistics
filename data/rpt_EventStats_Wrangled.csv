@@ -1,0 +1,77 @@
+,Category,Timestamp,Events
+0,DHCP Session In Progress,19-03-06 12:07,1.0
+1,DHCP Session In Progress,19-03-06 12:15,5.0
+2,DHCP Session In Progress,19-03-06 12:16,1.0
+3,DHCP Session In Progress,19-03-06 12:22,1.0
+4,DHCP Session In Progress,19-03-06 12:25,1.0
+5,DHCP Success,19-03-06 12:07,1.0
+6,DHCP Success,19-03-06 12:15,5.0
+7,DHCP Success,19-03-06 12:16,1.0
+8,DHCP Success,19-03-06 12:22,1.0
+9,DHCP Success,19-03-06 12:25,1.0
+10,Firewall Deny,19-03-06 12:06,14.0
+11,Firewall Deny,19-03-06 12:07,16.0
+12,Firewall Deny,19-03-06 12:08,16.0
+13,Firewall Deny,19-03-06 12:09,6.0
+14,Firewall Deny,19-03-06 12:10,32.0
+15,Firewall Deny,19-03-06 12:11,10.0
+16,Firewall Deny,19-03-06 12:12,3.0
+17,Firewall Deny,19-03-06 12:13,9.0
+18,Firewall Deny,19-03-06 12:14,4.0
+19,Firewall Deny,19-03-06 12:15,9.0
+20,Firewall Deny,19-03-06 12:16,6.0
+21,Firewall Deny,19-03-06 12:17,9.0
+22,Firewall Deny,19-03-06 12:18,14.0
+23,Firewall Deny,19-03-06 12:19,12.0
+24,Firewall Deny,19-03-06 12:20,37.0
+25,Firewall Deny,19-03-06 12:21,9.0
+26,Firewall Deny,19-03-06 12:22,13.0
+27,Firewall Deny,19-03-06 12:23,12.0
+28,Firewall Deny,19-03-06 12:24,4.0
+29,Firewall Deny,19-03-06 12:25,26.0
+30,Firewall Deny,19-03-06 12:26,9.0
+31,Firewall Deny,19-03-06 12:27,8.0
+32,Firewall Deny,19-03-06 12:28,7.0
+33,Firewall Deny,19-03-06 12:29,7.0
+34,Firewall Deny,19-03-06 12:30,14.0
+35,Firewall Deny,19-03-06 12:31,22.0
+36,Firewall Deny,19-03-06 12:32,9.0
+37,Firewall Deny,19-03-06 12:33,26.0
+38,Firewall Deny,19-03-06 12:34,14.0
+39,Firewall Permit,19-03-06 12:06,842.0
+40,Firewall Permit,19-03-06 12:07,887.0
+41,Firewall Permit,19-03-06 12:08,1012.0
+42,Firewall Permit,19-03-06 12:09,1027.0
+43,Firewall Permit,19-03-06 12:10,1073.0
+44,Firewall Permit,19-03-06 12:11,1122.0
+45,Firewall Permit,19-03-06 12:12,1056.0
+46,Firewall Permit,19-03-06 12:13,1096.0
+47,Firewall Permit,19-03-06 12:14,1017.0
+48,Firewall Permit,19-03-06 12:15,1073.0
+49,Firewall Permit,19-03-06 12:16,1054.0
+50,Firewall Permit,19-03-06 12:17,1113.0
+51,Firewall Permit,19-03-06 12:18,992.0
+52,Firewall Permit,19-03-06 12:19,947.0
+53,Firewall Permit,19-03-06 12:20,886.0
+54,Firewall Permit,19-03-06 12:21,938.0
+55,Firewall Permit,19-03-06 12:22,880.0
+56,Firewall Permit,19-03-06 12:23,926.0
+57,Firewall Permit,19-03-06 12:24,953.0
+58,Firewall Permit,19-03-06 12:25,1064.0
+59,Firewall Permit,19-03-06 12:26,1024.0
+60,Firewall Permit,19-03-06 12:27,999.0
+61,Firewall Permit,19-03-06 12:28,1003.0
+62,Firewall Permit,19-03-06 12:29,1047.0
+63,Firewall Permit,19-03-06 12:30,970.0
+64,Firewall Permit,19-03-06 12:31,906.0
+65,Firewall Permit,19-03-06 12:32,890.0
+66,Firewall Permit,19-03-06 12:33,966.0
+67,Firewall Permit,19-03-06 12:34,959.0
+68,General Audit Event,19-03-06 12:10,4.0
+69,General Audit Event,19-03-06 12:15,4.0
+70,General Audit Event,19-03-06 12:20,4.0
+71,General Audit Event,19-03-06 12:25,4.0
+72,General Audit Event,19-03-06 12:30,7.0
+73,Other,19-03-06 12:15,1.0
+74,Other,19-03-06 12:20,1.0
+75,Other,19-03-06 12:25,1.0

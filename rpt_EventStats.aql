@@ -1,0 +1,18 @@
+# ========================================================
+# This AQL is to be saved as a search with the name
+# rpt_EventStats used for this sample
+select
+    LOGSOURCENAME(logsourceid)      As LogSourceName,
+    LOGSOURCETYPENAME(devicetype)   As LogSourceType,
+    QIDDESCRIPTION(qid)             As EventName,
+    CATEGORYNAME(category)          As LowLevelCategory,
+    sum(eventcount)                 As TotalEvents
+from
+    events
+where
+    devicetype not in (18,67,147,105,368,267)
+group by
+    LogSourceName,
+    LogSourceType,
+    EventName,
+    LowLevelCategory
